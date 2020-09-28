@@ -8,4 +8,5 @@ Welcome to the WIU Computer Science Association's 2020 Hacktoberfest challenges.
 
 ### For organization purposes, please name your file as the following for each challenge:
 [your first name and your last name].[the file extension] 
+
 ex: evancolwell.cbl
