@@ -10,3 +10,5 @@ Welcome to the WIU Computer Science Association's 2020 Hacktoberfest challenges.
 [your first name and your last name].[the file extension] 
 
 ex: evancolwell.cbl
+
+Please don't commit compiled files if you are using a compiled language, just the source code is what we're looking for.
